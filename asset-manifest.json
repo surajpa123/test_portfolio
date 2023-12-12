@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test_portfolio/static/css/main.dc4d6ff2.css",
+    "main.js": "/test_portfolio/static/js/main.389054a9.js",
+    "static/media/Yourpharma.png": "/test_portfolio/static/media/Yourpharma.93ef4365f7b74cc9ee4b.png",
+    "static/media/autopart.png": "/test_portfolio/static/media/autopart.10f65550b0849d156391.png",
+    "static/media/handsanitizer.png": "/test_portfolio/static/media/handsanitizer.3fc2dfeaf7d89a139d80.png",
+    "static/media/ProfilePic.jpeg": "/test_portfolio/static/media/ProfilePic.76ca7aa8d3e2dcd0e44b.jpeg",
+    "static/media/css.png": "/test_portfolio/static/media/css.4c132d518acbd3ad94c6.png",
+    "static/media/Ashish-Roul-Resume.pdf": "/test_portfolio/static/media/Ashish-Roul-Resume.8e3e474c2f63833c784a.pdf",
+    "static/media/Vercel.png": "/test_portfolio/static/media/Vercel.fd61b9b83d69243486a9.png",
+    "static/media/cypress.png": "/test_portfolio/static/media/cypress.3ec6291e292175954557.png",
+    "static/media/html.png": "/test_portfolio/static/media/html.9b674892ef5960bafca3.png",
+    "static/media/react.png": "/test_portfolio/static/media/react.44319306359c7112276d.png",
+    "static/media/Black Pink Bold Elegant Monogram Personal Brand Logo.png": "/test_portfolio/static/media/Black Pink Bold Elegant Monogram Personal Brand Logo.e020438eb6ac73314840.png",
+    "static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).png": "/test_portfolio/static/media/Black Pink Bold Elegant Monogram Personal Brand Logo (1).5a4f982b03aa683ac67f.png",
+    "index.html": "/test_portfolio/index.html",
+    "main.dc4d6ff2.css.map": "/test_portfolio/static/css/main.dc4d6ff2.css.map",
+    "main.389054a9.js.map": "/test_portfolio/static/js/main.389054a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.389054a9.js"
+  ]
+}
